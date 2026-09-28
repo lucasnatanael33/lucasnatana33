@@ -14,7 +14,7 @@ Atualmente atuo com Suporte Técnico e venho desenvolvendo projetos voltados par
  
 ## 🛠️ Tecnologias e Ferramentas
 - Power Bi
-- SQL Server ManagementSstudio
+- SQL Server Management Sstudio
  
 ## 💻 Linguagens
 - Python
@@ -30,9 +30,8 @@ Atualmente atuo com Suporte Técnico e venho desenvolvendo projetos voltados par
 
 ## ⚙️ Automação
 
-- Python
 - Seliniun
-- Playwright
+- Play Wright 
 - Scripts de Automação
 
 ## 🎯 Foco Atual
@@ -49,7 +48,6 @@ Atualmente atuo com Suporte Técnico e venho desenvolvendo projetos voltados par
 
  
 ## 📫 Conecte-se comigo
- 
 💼 LinkedIn: www.linkedin.com/in/lucasnatanaeldacruz
 
 🌐 GitHub: github.com/lucasnatanael33
